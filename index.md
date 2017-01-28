@@ -7,3 +7,6 @@ I am a computer enthusiast who is passionate about web development, managing inf
 I am available over [Twitter](https://twitter.com/carllbennett), [Instagram](https://www.instagram.com/carllbennett), [Facebook](https://www.facebook.com/Jailout2000), [LinkedIn](https://linkedin.com/in/carllbennett), and many other social platforms. If you want to reach out, I encourage you to do so using one of the previously mentioned platforms. I also am available by email, which can be found on [my GitHub profile](https://github.com/carlbennett).
 
 If you're a hiring agent or agency, you can find my resume on my [LinkedIn](https://linkedin.com/in/carllbennett) or request it from me via email.
+
+### Donations
+You can send BTC to `17JF7FcBLx5xCkFGpYUzkTxMYCbZnW31zg` or use [PayPal](https://paypal.me/carlbennett), thank you.
