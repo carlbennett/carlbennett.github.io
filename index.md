@@ -9,4 +9,4 @@ I am available over [Twitter](https://twitter.com/carllbennett), [LinkedIn](http
 If you're a hiring agent or agency, you can find my resume on my [LinkedIn](https://linkedin.com/in/carllbennett) or request it from me via email.
 
 ### Donations
-You can send BTC to `17JF7FcBLx5xCkFGpYUzkTxMYCbZnW31zg` or use [PayPal](https://paypal.me/carlbennett), thank you.
+You can send BTC to `1XmzV7m3jCW513SwtssMBCssFNAjrfNtx` or use [PayPal](https://paypal.me/carlbennett), thank you.
